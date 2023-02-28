@@ -1,0 +1,20 @@
+cyber security tests and audits
+  pennetration testing
+  vulnerability assessment
+  security audits
+There are 4 key areas to focus on while testing and auditing they are: Asset, Threat, Vulnerabiity, and Risk
+Pentest approaches
+  Black Box
+  Grey Box
+  White Box
+When planning a pennetration test you will need the following:
+  Purpose
+  Scope
+  Requirements
+  Restrictions
+The penetration test phases are:
+  Reconnaissance
+  Scanning
+  Exploitation and post exploitation
+  Covering tracks
+  Reporting
